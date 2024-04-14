@@ -1,0 +1,82 @@
+
+
+* {
+    margin: 0;
+    list-style: none;
+}
+
+/* body {
+
+} */
+
+/* .nav-bar {
+    position:fixed;
+    height: 50px;
+    background: rgb(82, 157, 194);
+    top:0;
+} */
+
+
+/* main {
+    width: 1000px;
+    margin: auto;
+} */
+
+
+
+img {
+    object-fit: center;
+}
+
+
+.di-flex{
+    display: flex;
+}
+
+
+header {
+    position:;
+    height: 50px;
+    background: rgb(82, 157, 194);
+    top:0
+    z-index: -1px
+}
+
+/* :root {
+    --primary-color
+} */
+
+.cover {
+    justify-content: center;
+    
+}
+
+.profil img {
+    margin: -50px 300px;
+    border: 3px solid white;
+    border-radius: 50%;
+    height: 150px;
+}
+
+.profil-sec2 {
+    position: relative;
+    height: 200vh;
+    background: cornflowerblue;
+}
+
+.profil-bar {
+    background: rgb(56, 200, 205);
+    height: 35px;
+    margin: 70px 280px;   
+    position: sticky;
+    top: 0;
+}
+
+.profil-bar ul {
+    font-weight: bold;
+    gap: 60px;
+}
+
+.profil-rest {
+    height: 100vh; 
+}
